@@ -12,7 +12,7 @@ This repository contains tools for performing simple data analysis, specifically
 - **Visualization**: Visualize the data points, error bars along with the best and worst fit lines.
 
 ## Installation
-To use these tools, you can either use Python to run it yourself, or install the .exe file in [Releases](https://github.com/BingrongSu/Best-and-Worst-Fit-Line-Drawer/releases/tag/executable-files).
+To use these tools, you can either use Python to run it yourself, or install the .exe file in [Releases](https://github.com/BingrongSu/Best-and-Worst-Fit-Line-Drawer/releases/tag/files).
 
 ## Usage
 Here is an example of how to use the tools in this repository:
